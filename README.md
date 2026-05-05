@@ -1,11 +1,4 @@
-## Hi there 👋
-
-<!--
-**AniketMishra27/AniketMishra27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...# 💫 About Me:
+# 💫 About Me:
 I am a Data Science MSc candidate at Trinity College Dublin with hands-on experience across the full data and AI stack from building and optimising ETL pipelines and data warehousing solutions to developing production-grade machine learning models and custom AI architectures. At Optum (UnitedHealth Group), I delivered data analytics and reporting solutions at enterprise scale using Python, SQL, and Power BI, supporting platforms serving 1M+ monthly users and contributing to $7M+ in cost savings through cloud automation on Microsoft Azure. I have deep practical experience in machine learning including feature engineering, statistical modelling, and model evaluation and have independently built a full Transformer architecture from scratch in raw PyTorch, implementing Multi-Head Attention, Causal Masking, and Positional Encodings, demonstrating a foundational understanding of how large language models work under the hood. I have also worked with LLM-based systems, RAG pipelines, and agentic AI workflows, and have built reinforcement learning agents for complex real-world tasks. My research in computer vision a real-time face mask detection system using YOLOv4, OpenCV, and Keras was published in the International Journal of Computer Applications in 2022. I am proficient across the modern data and AI toolkit including Scikit-learn, Keras, Databricks, Snowflake, and cloud platforms including Azure, AWS, and GCP, and I actively integrate AI tooling into my development workflow to move faster while maintaining high standards for reliability and accuracy.
 
 
@@ -20,11 +13,3 @@ I am a Data Science MSc candidate at Trinity College Dublin with hands-on experi
 [![](https://komarev.com/ghpvc/?username=AniketMishra27&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
